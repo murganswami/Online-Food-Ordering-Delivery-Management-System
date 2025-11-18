@@ -136,5 +136,33 @@ DB Layer → MySQL
 This project is developed for educational & academic purposes only.
 
 
+---
+
+## 📸 Screenshots
+
+### 1️⃣ Project Start Page  
+<img width="671" height="190" alt="image" src="https://github.com/user-attachments/assets/31212334-a58b-48bd-9fff-f211393adb43" />
+
+
+### 2️⃣ User Registration  
+<img width="582" height="201" alt="image" src="https://github.com/user-attachments/assets/1034e078-3dcb-40c5-b51d-d38e824f9e36" />
+
+
+### 3️⃣ Restaurant List  
+<img width="460" height="114" alt="image" src="https://github.com/user-attachments/assets/99c5e9e2-5fc1-4b95-865d-5e9925697aa0" />
+
+
+### 4️⃣ Order Placed
+<img width="473" height="179" alt="image" src="https://github.com/user-attachments/assets/d13407b3-18c0-4491-ae52-7965fbe8f4dc" />
+<img width="215" height="26" alt="image" src="https://github.com/user-attachments/assets/b14d7bc8-5fa7-4d5d-b75d-197e8e8559f4" />
+<img width="476" height="26" alt="image" src="https://github.com/user-attachments/assets/99d46474-fd35-4146-b92f-23a68172b839" />
+
+
+### 5️⃣ Sales Report  
+<img width="415" height="91" alt="image" src="https://github.com/user-attachments/assets/06cc22f1-97ad-4288-b9db-2e81a55ebf85" />
+
+
+---
+
 
 
